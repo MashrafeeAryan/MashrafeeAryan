@@ -1,4 +1,5 @@
 # Hi there, I'm Mashrafee! 👋
+
 I am a **Computer Engineering** student at the University of Southern Mississippi (minoring in **Polymer Science** 🧪) who loves bridging the gap between hardware, software, and machine learning. From writing custom CUDA kernels to automating chemistry labs with robotics, I build things that move fast and scale.
 Currently expanding my AI horizons as a **Cornell Break Through Tech AI Fellow**! 🚀
 ---

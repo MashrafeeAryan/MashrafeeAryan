@@ -1,13 +1,13 @@
 # Hi there, I'm Mashrafee! 👋
 
-I am a **Computer Engineering** student at the University of Southern Mississippi (minoring in **Polymer Science** 🧪) who loves bridging the gap between hardware, software, and machine learning. From writing custom CUDA kernels to automating chemistry labs with robotics, I build things that move fast and scale.
-Currently expanding my AI horizons as a **Cornell Break Through Tech AI Fellow**! 🚀
+Computer Engineering student at Southern Miss, minoring in Polymer Science 🧪. I end up doing a weird mix of hardware, software, and ML because that's just how my projects turn out (CUDA kernels one week, lab robots the next). Currently a Cornell Break Through Tech AI Fellow 🚀.
+
 ---
 ### 🛠️ What I'm Up To
-* **AI & Research:** Engineering CNN-based computer vision systems and building automation pipelines to speed up materials discovery.
-* **Full Stack Development:** Optimization geek. I recently cut database query loads by 40% for **CampCrunch** and built a personalized nutrition matching engine.
-* **Agentic AI:** Built **`Friday`**, an autonomous agent that uses LLM tool-calling to turn a plain-language instruction into multi-step action on a real machine.
-* **Open Source:** Created **`RunOnGPU`**, a PyPI package to spin up remote cloud GPU workflows effortlessly. Also contributing to **NVIDIA's `MatX`** (GPU-accelerated tensor library) and **DOSBox Staging**.
+* **AI & Research:** Building CNN-based computer vision to speed up materials discovery experiments.
+* **Full Stack:** Cut database query loads by 40% at **CampCrunch**, plus built a nutrition matching engine there.
+* **Agentic AI:** Built `Friday`, an agent that uses LLM tool-calling to actually do multi-step tasks, not just chat about them.
+* **Open Source:** Made `RunOnGPU` (published on PyPI). Also contributing to NVIDIA's `MatX` and DOSBox Staging.
 ---
 ### 🧰 Tech Stack & Tools
 * **Languages:** `Python`, `C++`, `C`, `JavaScript`, `TypeScript`, `MATLAB`
@@ -16,14 +16,14 @@ Currently expanding my AI horizons as a **Cornell Break Through Tech AI Fellow**
 * **DevOps & Tools:** `Git`, `Docker`, `CUDA`, `Appwrite`, `Linux`, `Arduino`
 ---
 ### 🔬 Highlighted Projects
-* 🏎️ **[CUDA Neural Network Engine]** – A neural network built entirely from scratch in C++ and custom CUDA kernels. No external ML frameworks, just pure parallel processing power.
-* 🤖 **[Friday]** – An autonomous agent, in the spirit of Claude Computer Use, that turns a plain-language instruction into real, multi-step action using LLM tool-calling.
-* 📦 **[RunOnGPU]** – An open-source CLI utility published to PyPI that lets you execute code on cloud GPUs without the manual configuration headache.
-* ⚡ **[NVIDIA MatX Contribution]** – Contributing frontend string-parsing features in C++20 to a GPU-accelerated einsum operator, working toward NumPy-style syntax in a production tensor library.
-* 🕹️ **[DOSBox Staging Contribution]** – Refactored legacy display configuration code into modular, maintainable assets, iterating with maintainers through real code review.
+* 🏎️ **[CUDA Neural Network Engine]** – Built from scratch in C++ and CUDA, no ML framework, just raw kernels.
+* 🤖 **[Friday]** – An agent that turns a plain-language instruction into real, multi-step action.
+* 📦 **[RunOnGPU]** – Open-source CLI on PyPI to run code on cloud GPUs without the setup headache.
+* ⚡ **[NVIDIA MatX Contribution]** – String-parsing features for a GPU-accelerated einsum operator in C++20.
+* 🕹️ **[DOSBox Staging Contribution]** – Refactored legacy display config into modular assets.
 ---
 ### 📰 Published Work
-* **Aryan, M.** *Convergence of High-Throughput Experimentation and Machine Learning for Polymer Discovery.* **RSC Applied Polymers, 2026.** 
+* **Aryan, M.** *Convergence of High-Throughput Experimentation and Machine Learning for Polymer Discovery.* **RSC Applied Polymers, 2026.**
 ---
 ### 🤝 Let's Connect!
 * 💼 **LinkedIn:** [linkedin.com/in/mashrafeearyan](https://linkedin.com/in/mashrafeearyan)

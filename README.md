@@ -1,30 +1,31 @@
-# Hi there, I'm Mashrafee! 👋
+# Hey, I'm Mashrafee! 👋
 
-Computer Engineering student at Southern Miss, minoring in Polymer Science 🧪. I end up doing a weird mix of hardware, software, and ML because that's just how my projects turn out (CUDA kernels one week, lab robots the next). Currently a Cornell Break Through Tech AI Fellow 🚀.
+I'm a Computer Engineering student at Southern Miss, minoring in Polymer Science. 🧪
 
----
-### 🛠️ What I'm Up To
-* **AI & Research:** Building CNN-based computer vision to speed up materials discovery experiments.
-* **Full Stack:** Cut database query loads by 40% at **CampCrunch**, plus built a nutrition matching engine there.
-* **Agentic AI:** Built `Friday`, an agent that uses LLM tool-calling to actually do multi-step tasks, not just chat about them.
-* **Open Source:** Made `RunOnGPU` (published on PyPI). Also contributing to NVIDIA's `MatX` and DOSBox Staging.
----
-### 🧰 Tech Stack & Tools
-* **Languages:** `Python`, `C++`, `C`, `JavaScript`, `TypeScript`, `MATLAB`
-* **AI / ML & Vision:** `TensorFlow`, `PyTorch`, `OpenCV`, `Pandas`, `NumPy`
-* **Web & Mobile:** `React.js`, `React Native`, `Next.js`, `Node.js`, `Flask`
-* **DevOps & Tools:** `Git`, `Docker`, `CUDA`, `Appwrite`, `Linux`, `Arduino`
----
-### 🔬 Highlighted Projects
-* 🏎️ **[CUDA Neural Network Engine]** – Built from scratch in C++ and CUDA, no ML framework, just raw kernels.
-* 🤖 **[Friday]** – An agent that turns a plain-language instruction into real, multi-step action.
-* 📦 **[RunOnGPU]** – Open-source CLI on PyPI to run code on cloud GPUs without the setup headache.
-* ⚡ **[NVIDIA MatX Contribution]** – String-parsing features for a GPU-accelerated einsum operator in C++20.
-* 🕹️ **[DOSBox Staging Contribution]** – Refactored legacy display config into modular assets.
----
-### 📰 Published Work
-* **Aryan, M.** *Convergence of High-Throughput Experimentation and Machine Learning for Polymer Discovery.* **RSC Applied Polymers, 2026.**
----
+I like building things across **GPU computing, systems programming, and AI**. One week it's C++ libraries, the next it's AI agents or automating experiments in a polymer research lab.
+
+### 🚀 What I'm Up To
+- ⚡ **Open Source:** Contributing to [NVIDIA MatX](https://github.com/NVIDIA/MatX), [Apache Arrow/Parquet](https://github.com/apache/arrow), and AMD ROCm Iris. Previously contributed to [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging).
+- 🧠 **AI & Research:** Cornell Break Through Tech AI Fellow working on a Microsoft-sponsored project. Also using computer vision to automate polymer experiments.
+
+### 🛠️ Featured Projects
+- 🤖 **[ChexsaAI](https://github.com/MashrafeeAryan/ChexsaAI)** — A browser and desktop automation agent that completes real tasks with LLM tool-calling. I'm exploring ways to **reduce token usage, speed up execution, and reuse successful task sequences**.
+- ⚡ **[NVIDIA MatX contributions](https://github.com/NVIDIA/MatX/pull/1265)** — C++20 tensor and einsum improvements, including a lightweight header that reduced compile time by **~65% in a targeted benchmark**.
+- 🏎️ **CUDA Neural Network Engine** — Built from scratch in C++/CUDA, with up to **704× speedup** over a single-threaded CPU implementation on 512×512 matrices.
+- 📦 **RunOnGPU** — A Python CLI published on PyPI to make running projects on cloud GPUs easier.
+- 🍽️ **CampCrunch** — Led four developers and reduced backend database query load by **40%**.
+
+### 🧰 Tech Stack
+**Languages:** `C++` `Python` `C` `Java` `TypeScript` `SQL`
+
+**Systems & GPU:** `CUDA` `Linux` `Docker` `CMake` `Git`
+
+**AI & Development:** `PyTorch` `TensorFlow` `OpenCV` `Playwright` `React` `Node.js`
+
+### 🔬 Published Research
+*Convergence of High-Throughput Experimentation and Machine Learning for Polymer Discovery* — **RSC Applied Polymers, 2026**
+
 ### 🤝 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/mashrafeearyan](https://linkedin.com/in/mashrafeearyan)
-* 📧 **Email:** [mashrafeearyan@gmail.com](mailto:mashrafeearyan@gmail.com)
+[LinkedIn](https://linkedin.com/in/mashrafeearyan) · [GitHub](https://github.com/MashrafeeAryan) · [Email](mailto:mashrafeearyan@gmail.com)
+
+*Always learning. Usually building something.*
